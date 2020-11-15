@@ -1,5 +1,5 @@
 # RPADeveloperNanoDegree-Sorting-Annual-Reports
-An automation that accepts GitHub repository link, that has files with specific naming pattern, and download it. Then it sorts the files into folders depending in the files naming.
+An automation that accepts GitHub repository link, that has files with specific naming pattern, and download it. Then it sorts the files into folders depending on the files naming.
 Program a Robot to start the automation by opening this Github Repo with a web browser.
 Program a Robot to click on the download button and download the zip file in the Downloads directory.
 Program a Robot to move the downloaded zip from the Downloads directory to the Project directory.
